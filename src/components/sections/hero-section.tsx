@@ -31,15 +31,15 @@ const HeroSection = () => {
         <h1 className="text-lg md:text-xl font-bold mb-1.5 px-2 relative [text-shadow:none]">
           <Star className="w-2.5 h-2.5 text-accent absolute -top-0.5 left-3 animate-pulse" />
           <span className="text-black">Unlock</span>{' '}
-          <span className="inline-flex items-center gap-1" style={{ color: '#c8131e', textShadow: 'none' }}>
-            Sephora Rewards
+          <span className="inline-flex items-center gap-1" style={{ color: '#a02817', textShadow: 'none' }}>
+            Tractor Supply Rewards
           </span>
         </h1>
 
         <p className="text-xs md:text-sm text-black mb-2 font-medium px-2 relative [text-shadow:none]">
           Here's how to claim your{' '}
-          <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#c8131e', textShadow: 'none' }}>
-            $750 Gift Card
+          <span className="font-bold !w-[148px] !h-[17px]" style={{ color: '#a02817', textShadow: 'none' }}>
+            $500 Gift Card
           </span>
         </p>
       </div>
